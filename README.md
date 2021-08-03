@@ -31,4 +31,4 @@ npx create-next-app ts-next -e https://github.com/tvarwig/typescript-nextjs-star
 - Update Schema checkout [Next SEO](https://github.com/garmeeh/next-seo)
 
 
-Thanks from João Pedro Schmitz for starting this. Cloned from `https://github.com/jpedroschmitz/typescript-nextjs-starter`
+Thanks from João Pedro Schmitz for starting this. Cloned from `https://github.com/jpedroschmitz/nextjs-starter`
