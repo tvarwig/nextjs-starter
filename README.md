@@ -19,7 +19,7 @@
 The best way to start with this template is using `create-next-app`.
 
 ```
-npx create-next-app ts-next -e https://github.com/tvarwig/typescript-nextjs-starter
+npx create-next-app ts-next -e https://github.com/tvarwig/nextjs-starter-seo
 ```
 
 ### Required Environment Variables
