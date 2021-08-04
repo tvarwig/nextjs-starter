@@ -23,10 +23,9 @@ npx create-next-app ts-next -e https://github.com/tvarwig/nextjs-starter-seo
 ```
 
 ### Required Environment Variables
-- SITE_URL
+- SITE_URL ( next.config.js )
 
 ### Todo After Installation
-- For Development copy `.envexample` to `.env.development.local`
 - Update / Add Pages to `sitemap.config.js`
 - Update Schema checkout [Next SEO](https://github.com/garmeeh/next-seo)
 

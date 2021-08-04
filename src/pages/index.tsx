@@ -1,16 +1,21 @@
 import { NextSeo } from 'next-seo'
 
+const pageData = {
+  title: 'NextJS Corporate SEO',
+  description: 'A short description goes here.',
+}
+
 export default function Home() {
   return (
     <div>
       <NextSeo
-        title="Simple Usage Example"
-        description="A short description goes here."
+        title={pageData.title}
+        description={pageData.description}
         canonical={process.env.SITE_URL}
         openGraph={{
           url: process.env.SITE_URL,
-          title: 'Open Graph Title',
-          description: 'Open Graph Description',
+          title: pageData.title,
+          description: pageData.description,
           images: [
             {
               url: `${process.env.SITE_URL}/og-image-01.jpg`,
