@@ -19,7 +19,7 @@
 The best way to start with this template is using `create-next-app`.
 
 ```
-npx create-next-app ts-next -e https://github.com/tvarwig/nextjs-starter-seo
+npx create-next-app myapp -e https://github.com/tvarwig/nextjs-starter-seo
 ```
 
 ### Required Environment Variables
@@ -30,4 +30,4 @@ npx create-next-app ts-next -e https://github.com/tvarwig/nextjs-starter-seo
 - Update Schema checkout [Next SEO](https://github.com/garmeeh/next-seo)
 
 
-Thanks from João Pedro Schmitz for starting this. Cloned from `https://github.com/jpedroschmitz/nextjs-starter`
+Thanks from João Pedro Schmitz for starting this. Cloned from `https://github.com/jpedroschmitz/typescript-nextjs-starter`
